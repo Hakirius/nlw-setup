@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Esse projeto foi desenvolvido com base nas aulas do Evento NLW Setup da RocketSeat. <br/>
+Esse projeto foi desenvolvido com base nas aulas do Evento NLW Setup da Rocketseat. <br/>
 </p>
 
 <p align="center">
